@@ -1,7 +1,7 @@
 
  E-Commerce Platform (MERN Stack)
  
- Overview  
+Overview  
 
 This project is a **full-stack e-commerce platform** built using the **MERN (MongoDB, Express.js, React.js, Node.js)** stack.  
 It enables users to browse products, add items to their cart, complete purchases, and track orders seamlessly.  
@@ -26,7 +26,7 @@ Admins can manage products, orders, and users through a dedicated dashboard.
 - **Payment Gateway**: Stripe/PayPal integration  
 - **State Management**: Redux Toolkit  
 - **Styling**: Tailwind CSS
-- 
+
 How It Works  
 
 1. Users can sign up, log in, and browse products.  
